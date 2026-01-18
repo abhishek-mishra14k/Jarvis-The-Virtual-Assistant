@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Jarvis - Python Virtual Assistant</title>
     
 </head>
 <body>
