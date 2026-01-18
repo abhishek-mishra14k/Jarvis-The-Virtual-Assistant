@@ -3,42 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Jarvis - Python Virtual Assistant</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #0d1117;
-            color: #c9d1d9;
-            padding: 30px;
-            line-height: 1.7;
-        }
-        h1, h2, h3 {
-            color: #58a6ff;
-        }
-        code {
-            background: #161b22;
-            padding: 5px;
-            border-radius: 5px;
-            display: block;
-            margin: 10px 0;
-        }
-        .container {
-            max-width: 900px;
-            margin: auto;
-        }
-        img {
-            width: 100%;
-            border-radius: 10px;
-            margin: 15px 0;
-        }
-        ul li {
-            margin: 8px 0;
-        }
-        .footer {
-            text-align: center;
-            margin-top: 40px;
-            font-weight: bold;
-        }
-    </style>
+    
 </head>
 <body>
 
@@ -54,15 +19,6 @@ It processes voice commands and performs intelligent automation tasks such as sy
 <p>
 This project demonstrates <strong>clean backend architecture, modular coding, and automation logic</strong> without any frontend interface.
 </p>
-
-<hr>
-
-<h2>🎬 Demo</h2>
-<p><i>Live working preview of Jarvis</i></p>
-
-<img src="demo.gif" alt="Jarvis Demo">
-
-<p>📌 Replace <b>demo.gif</b> with your actual file name</p>
 
 <hr>
 
